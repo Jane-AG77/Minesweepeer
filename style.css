@@ -16,7 +16,7 @@ p, h2{
     margin: 0;
 }
 
-.button{
+#button{
     background-color: #f56475;
     text-align: center;
     width: 80px;
